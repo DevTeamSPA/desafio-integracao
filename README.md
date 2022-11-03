@@ -60,7 +60,7 @@ UserInfo
 
 ## 2. Criar primeiramente os testes da aplicação utilizando `jest`
 
-### 2.1
+### 2.1 Desenvolver uma API Restful para cada resource:
 ~~~html
 - Usuários
 
