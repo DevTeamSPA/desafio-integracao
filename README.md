@@ -1,4 +1,4 @@
-<center><img src="https://avatars.githubusercontent.com/u/91892865?s=200&v=4" /></center>
+<center><div><img src="https://avatars.githubusercontent.com/u/91892865?s=200&v=4" /></div></center>
 
 ## Seja Bem-Vindo à SPA!
 Estamos felizes de ter você no nosso processo seletivo para Equipe de Desenvolvimento.
