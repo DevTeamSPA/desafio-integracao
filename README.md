@@ -67,7 +67,7 @@ UserInfo
 - Usuários
 
 [GET]         /usuarios              - Lista todos os usuários
-[GET]         /usuarios/:id          - Busca uma Categoria por id
+[GET]         /usuarios/:id          - Busca um Usuário por id
 [POST]        /usuarios              - Cria um Usuário
 [PATCH]       /usuarios/:id          - Edita um Usuário
 [DELETE]      /usuarios/:id          - Delete um Usuário (deve atualizar o UserInfo setando idUser como NULL para funções que utilizam essa tabela)
