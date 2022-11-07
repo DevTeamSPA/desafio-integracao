@@ -21,6 +21,8 @@ ex:
 
 Caso tenha alguma dúvida sobre o desafio, [abra uma issue](https://github.com/DevTeamSPA/desafio-dev/issues) neste repositório e alguém da nossa equipe de desenvolvimento vai te ajudar! Utilizamos as issues para que cada dúvida possa servir de ajuda para o próximo!
 
+`Você tem 5 dias para entregar o teste!`
+
 A seguir, está seu desafio, boa sorte!
 
 ## DESAFIO
